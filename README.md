@@ -5,4 +5,6 @@ Notice: This repository for wpf_AnimationPalette is only for usage in applicatio
 
 Library Version: 0.1.0.0
 
+Shared Libraries Version: 0.1.5.0
+
 Library .NET Version: 4.5.2
